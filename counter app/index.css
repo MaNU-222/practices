@@ -1,0 +1,49 @@
+body {
+  background-color: rosybrown;
+  text-align: center;
+
+}
+
+h1 {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  color: antiquewhite;
+  font-weight: bold;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: inset;
+
+
+}
+
+#increment-btn {
+  background-color: darkgreen;
+}
+
+#increment10-btn {
+  background-color: darkgreen;
+}
+
+#save-btn {
+  background-color: darkgoldenrod;
+}
+
+#decrement-btn{
+  background-color: darkred;
+}
